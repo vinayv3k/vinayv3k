@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @vinayv3k
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-vinayv3k/vinayv3k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Web development using Full Stack
+- 🌱 I’m currently learning Bachelors of Technology in the stream of Computer Science & Engineering
+- 📫 How to reach me phn: +91 9182351357 email: ch.vinaykumr.benz@gmail.com

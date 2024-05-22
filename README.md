@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @vinayv3k
-- 👀 I’m interested in Web development using Full Stack
+- 👀 I’m interested in Web development using Full Stack and also a Java Developer with good SQL skills
 - 🌱 I’m currently learning Bachelors of Technology in the stream of Computer Science & Engineering
 - 📫 How to reach me phn: +91 9182351357 email: ch.vinaykumr.benz@gmail.com
